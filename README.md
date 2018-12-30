@@ -1,5 +1,15 @@
-Repository used for development in C, involving courses and various scripts, with the purpose of saving files and accompanying learning.
+# repository structure
 
-----
+## c
+Scripts for testing c features and sintax.
 
-Repositório utilizado para desenvolvimento em java, envolvendo cursos e scripts diversos, com o objetivo de guardar arquivos e acompanhar o aprendizado.
+---
+
+# contacts
+sabrinabgbc
+
+sabrinabgbc@email.com | sabrinabmoreira@gmail.com
+
+noobfrontend.wordpress.com
+
+www.linkedin.com/in/sabrinabmoreira
