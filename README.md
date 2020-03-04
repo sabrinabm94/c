@@ -1,13 +1,14 @@
-# repository structure
+# Repository structure
 
-## c
+## C
+
 Scripts for testing c features and sintax.
 
 ---
 
-# contacts
-Sivy
+# Contacts
+Sabrina B.
 
-sivyboing@gmail.com
+sabrinabmoreira@gmail.com
 
-www.thedevblog.com.br
+https://www.thedevblog.com.br/
