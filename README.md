@@ -6,9 +6,7 @@ Scripts for testing c features and sintax.
 
 ---
 
-# Contacts
+# Contact
 Sabrina B.
+sabrinabm94@gmail.com
 
-sabrinabmoreira@gmail.com
-
-https://www.thedevblog.com.br/
